@@ -1,55 +1,55 @@
-# 👋 ¡Hola! Soy Hugo Arias | @shigerubt 🚀  
+# 👋 Hello! I'm Hugo Arias | @shigerubt 🚀  
 
-💻 **Desarrollador Blockchain | Back-End | Game Developer (Unity)**  
-🔹 Apasionado por la tecnología, la programación y la creación de soluciones innovadoras.  
-
----
-
-## 🚀 Sobre mí  
-Soy un **desarrollador con experiencia en Tecnología Blockchain, Back-End y Desarrollo de Videojuegos en Unity**. Me encanta explorar nuevas herramientas, optimizar procesos y crear soluciones que generen impacto.  
-
-📌 Actualmente estoy:  
-✔️ Construyendo proyectos de **blockchain** con Solidity y Hardhat.  
-✔️ Desarrollando **back-end** con Node.js y bases de datos SQL/NoSQL.  
-✔️ Experimentando con **Unity** para la creación de videojuegos.  
-✔️ Mejorando mis habilidades en **QA Testing** para garantizar software robusto.  
+💻 **Blockchain Developer | Back-End | Game Developer (Unity)**  
+🔹 Passionate about technology, programming, and building innovative solutions.  
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## 🚀 About Me  
+I’m a **developer with experience in Blockchain Technology, Back-End Development, and Game Development in Unity**. I love exploring new tools, optimizing processes, and creating impactful solutions.  
+
+📌 Currently working on:  
+✔️ **Blockchain development** with Solidity and Foundry.  
+✔️ **Back-end projects** using Node.js and SQL/NoSQL databases.  
+✔️ **Game development** in Unity with C#.  
+✔️ Enhancing my **QA Testing** skills to ensure robust software.  
+
+---
+
+## 🛠️ Technologies & Tools  
 
 ### 🔹 **Blockchain & Smart Contracts**  
 - Solidity | Hardhat | Foundry  
 - Ethereum | EVM-compatible chains  
 - Thirdweb | Web3.js | Ethers.js  
 
-### 🔹 **Desarrollo Back-End**  
+### 🔹 **Back-End Development**  
 - Node.js | Express.js  
 - PostgreSQL | MongoDB | Firebase  
-- API REST | GraphQL  
+- REST APIs | GraphQL  
 
-### 🔹 **Desarrollo de Videojuegos**  
+### 🔹 **Game Development**  
 - Unity | C#  
 - Game Design & Prototyping  
 
 ### 🔹 **QA Testing & Agile**  
 - Cypress | Jest | Playwright  
-- Testeo Manual & Automatizado  
+- Manual & Automated Testing  
 - Scrum | Jira  
 
 ---
 
-## 📊 Estadísticas  
+## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shigerubt&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shigerubt&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shigerubt&layout=compact&theme=radical)  
 
 ---
 
-## 🌍 Conectemos  
+## 🌍 Connect with Me  
 💼 [Website](https://ariascode.dev)  
-📌 [LinkedIn](https://linkedin.com/in/tuusuario)  
-🐦 [Twitter/X](https://twitter.com/tuusuario)  
+📌 [LinkedIn](https://linkedin.com/in/yourusername)  
+🐦 [Twitter/X](https://twitter.com/yourusername)  
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀✨  
+Thanks for stopping by! 🚀✨  
