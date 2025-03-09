@@ -20,7 +20,7 @@ I’m a **developer with experience in Blockchain Technology, Back-End Developme
 ## 🛠️ Technologies & Tools  
 
 ### 🔹 **Blockchain & Smart Contracts**  
-- Solidity | Hardhat | Foundry  
+- Solidity | Foundry  
 - Ethereum | EVM-compatible chains  
 - Thirdweb | Web3.js | Ethers.js  
 
