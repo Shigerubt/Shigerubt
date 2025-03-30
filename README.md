@@ -4,7 +4,7 @@
 🔹 Passionate about technology, programming, and building innovative solutions.  
 
 ---
-![Banner Horizontal Congreso Moderno Violeta](https://github.com/user-attachments/assets/d34e264e-90ae-4b96-b9eb-3763b4e83428)
+![Banner Horizontal Congreso Moderno Violeta](https://github.com/Shigerubt/Shigerubt/blob/main/Building%20the%20future%20with%20code.png)
 
 ## 🚀 About Me  
 I’m a **developer with experience in Blockchain Technology, Back-End Development, and Game Development in Unity**. I love exploring new tools, optimizing processes, and creating impactful solutions.  
