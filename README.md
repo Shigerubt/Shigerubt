@@ -46,10 +46,9 @@ I’m a **developer with experience in Blockchain Technology, Back-End Developme
 
 ---
 
-## 🌍 Connect with Me  
-💼 [Website](https://ariascode.dev)  
-📌 [LinkedIn](https://linkedin.com/in/yourusername)  
-🐦 [Twitter/X](https://twitter.com/yourusername)  
+## 🌍 Connect with Me    
+📌 [LinkedIn](https://linkedin.com/in/shigerubt)  
+🐦 [Twitter/X](https://twitter.com/cryptoworldxp)  
 
 ---
 
