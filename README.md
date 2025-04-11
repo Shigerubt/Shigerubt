@@ -13,7 +13,7 @@ I’m a **developer with experience in Blockchain Technology, Back-End Developme
 ✔️ **Blockchain development** with Solidity and Foundry.  
 ✔️ **Back-end projects** using Java.  
 ✔️ **Game development** in Unity with C#.  
-✔️ Enhancing my **QA Testing** skills to ensure robust software. 
+✔️ Enhancing my **QA Testing** skills to ensure robust software.
 ✔️ Over 10 years of Customer Experience, enhanced by a background in Psychology—applying active listening, empathy, and behavioral insights to understand customer needs and deliver effective, personalized solutions.
 
 ---
