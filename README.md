@@ -9,11 +9,12 @@
 ## 🚀 About Me  
 I’m a **developer with experience in Blockchain Technology, Back-End Development, and Game Development in Unity**. I love exploring new tools, optimizing processes, and creating impactful solutions.  
 
-📌 Currently working on:  
+📌 Interested to work on:  
 ✔️ **Blockchain development** with Solidity and Foundry.  
-✔️ **Back-end projects** using Node.js and SQL/NoSQL databases.  
+✔️ **Back-end projects** using Java.  
 ✔️ **Game development** in Unity with C#.  
-✔️ Enhancing my **QA Testing** skills to ensure robust software.  
+✔️ Enhancing my **QA Testing** skills to ensure robust software. 
+✔️ Over 10 years of Customer Experience, enhanced by a background in Psychology—applying active listening, empathy, and behavioral insights to understand customer needs and deliver effective, personalized solutions.
 
 ---
 
@@ -25,18 +26,19 @@ I’m a **developer with experience in Blockchain Technology, Back-End Developme
 - Thirdweb | Web3.js | Ethers.js  
 
 ### 🔹 **Back-End Development**  
-- Node.js | Express.js  
-- PostgreSQL | MongoDB | Firebase  
-- REST APIs | GraphQL  
+- Java
+
+### 🔹 **Front-End Development**  
+- HTML | CSS | Tailwind CSS | JS
 
 ### 🔹 **Game Development**  
 - Unity | C#  
 - Game Design & Prototyping  
 
 ### 🔹 **QA Testing & Agile**  
-- Cypress | Jest | Playwright  
+- Postman | Selenium IDE    
 - Manual & Automated Testing  
-- Scrum | Jira  
+- Agile Methodologies | Jira  
 
 ---
 
