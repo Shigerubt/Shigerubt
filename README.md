@@ -26,7 +26,7 @@ I’m a **developer with experience in Blockchain Technology, Back-End Developme
 - Thirdweb | Web3.js | Ethers.js  
 
 ### 🔹 **Back-End Development**  
-- Java
+- Java | Spring Boot
 
 ### 🔹 **Front-End Development**  
 - HTML | CSS | Tailwind CSS | JS
